@@ -21,7 +21,7 @@ A simple QCM bot for Discord built in JavaScript.
 
 - !add-qcm: Ajouter un QCM au bot.
 - !qcm: Jouer un seul QCM.
-- !qcm <number>: Jouer à <number> QCM(s).
+- !qcm ***n***: Jouer à ***n*** QCM(s).
 - !help: Afficher l'aide.
 - !stop: Redémarrer le bot.
 
