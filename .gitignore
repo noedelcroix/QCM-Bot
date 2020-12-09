@@ -1,3 +1,9 @@
+#tokens
+tokens.json
+
+#QCM File
+QCM.json
+
 # Logs
 logs
 *.log
